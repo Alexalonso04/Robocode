@@ -1,0 +1,10 @@
+F:\Temporal Documents\GitHub\P2\Robocode\env\robots\CAP4053.Student.Gatorlink.deps.json
+F:\Temporal Documents\GitHub\P2\Robocode\env\robots\CAP4053.Student.Gatorlink.dll
+F:\Temporal Documents\GitHub\P2\Robocode\env\robots\CAP4053.Student.Gatorlink.pdb
+F:\Temporal Documents\GitHub\P2\Robocode\StudenRobot\obj\Debug\StudenRobot.csprojAssemblyReference.cache
+F:\Temporal Documents\GitHub\P2\Robocode\StudenRobot\obj\Debug\StudenRobot.csproj.CoreCompileInputs.cache
+F:\Temporal Documents\GitHub\P2\Robocode\StudenRobot\obj\Debug\StudenRobot.AssemblyInfoInputs.cache
+F:\Temporal Documents\GitHub\P2\Robocode\StudenRobot\obj\Debug\StudenRobot.AssemblyInfo.cs
+F:\Temporal Documents\GitHub\P2\Robocode\StudenRobot\obj\Debug\StudenRobot.csproj.CopyComplete
+F:\Temporal Documents\GitHub\P2\Robocode\StudenRobot\obj\Debug\CAP4053.Student.Gatorlink.dll
+F:\Temporal Documents\GitHub\P2\Robocode\StudenRobot\obj\Debug\CAP4053.Student.Gatorlink.pdb
